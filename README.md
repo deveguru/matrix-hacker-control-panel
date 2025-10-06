@@ -1,4 +1,4 @@
-# matrix hacker control panel
+# matrix host control panel
 a hacker and green style matrix control panel for public_html in web host
 
 To enter the control panel, after uploading to the site source,
@@ -6,7 +6,7 @@ websitename.example/ wp-con.php
 
 enter with password 123@321
 and also the destruction of the entire directory is also with password 369@963
-# کنترل پنل هکری ماتریکس
+# کنترل پنل هاست ماتریکسی
 کنترل پنل هکری و سبز ماتریکس برای public_html در هاست وب
 
 برای ورود به کنترل پنل، پس از آپلود در سورس سایت،
