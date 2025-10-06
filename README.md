@@ -12,8 +12,8 @@ and also the destruction of the entire directory is also with password 369@963
 برای ورود به کنترل پنل، پس از آپلود در سورس سایت،
 websitename.example/wp-con.php
 
-با رمز عبور 123@321 وارد شوید
-و همچنین تخریب کل دایرکتوری نیز با رمز عبور 369@963 انجام می‌شود.
+با رمز عبور 321@123
+و همچنین تخریب کل دایرکتوری نیز با رمز عبور 963@369 انجام می‌شود.
 
 
 <img width="1265" height="933" alt="image" src="https://github.com/user-attachments/assets/3e6c49ce-2444-493d-88aa-262bfbbcfe74" />
