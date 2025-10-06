@@ -6,6 +6,8 @@ websitename.example/ wp-con.php
 
 enter with password 123@321
 and also the destruction of the entire directory is also with password 369@963
+
+{Automatically detect and log into WordPress database}
 # کنترل پنل هاست ماتریکسی
 کنترل پنل هکری و سبز ماتریکس برای public_html در هاست وب
 
@@ -15,5 +17,10 @@ websitename.example/wp-con.php
 با رمز عبور 321@123
 و همچنین تخریب کل دایرکتوری نیز با رمز عبور 963@369 انجام می‌شود.
 
+{تشخیص خودکار دیتابیس وردپرس و ورود خودکار بهش}
+
 
 <img width="1265" height="933" alt="image" src="https://github.com/user-attachments/assets/3e6c49ce-2444-493d-88aa-262bfbbcfe74" />
+
+
+<img width="1265" height="878" alt="image" src="https://github.com/user-attachments/assets/8896abc9-b578-4794-aea0-e80b078d1b44" />
